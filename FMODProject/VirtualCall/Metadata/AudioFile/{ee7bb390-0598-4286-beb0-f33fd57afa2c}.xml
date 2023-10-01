@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ee7bb390-0598-4286-beb0-f33fd57afa2c}">
+		<property name="assetPath">
+			<value>Brakes01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>2.1953125</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9bc266e7-7854-434f-a235-a8d232f7a446}</destination>
+		</relationship>
+	</object>
+</objects>

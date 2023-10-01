@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{f0e1f1ca-abd0-4a3e-87ac-a58fe5503c10}">
+		<property name="name">
+			<value>AthmoIndex</value>
+		</property>
+		<relationship name="folder">
+			<destination>{92176fdf-d29e-4dbe-b32a-dfb233f80fc1}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{f97b8d14-5776-4725-bec7-a58d16611f04}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{f97b8d14-5776-4725-bec7-a58d16611f04}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Water</value>
+			<value>Engine</value>
+			<value>Brakes</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeedDescending">
+			<value>1.6599999666213989</value>
+		</property>
+	</object>
+</objects>
